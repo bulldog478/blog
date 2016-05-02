@@ -18,7 +18,7 @@
 
 ## Vue
 >
-- TBD
+- [Vue2.0来了！](http://jiongks.name/blog/announcing-vue-2/)
 
 ## React
 > Redux
